@@ -16,7 +16,7 @@ export default function Blog() {
             <div className="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
               <div className="blog-item bg-light rounded overflow-hidden">
                 <div className="blog-img position-relative overflow-hidden">
-                  <img className="img-fluid" src="img/blog-1.jpg" alt="" />
+                  {/* <img className="img-fluid" src="img/blog-1.jpg" alt="" /> */}
                   <p
                     className="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4"
                   >
@@ -47,7 +47,7 @@ export default function Blog() {
             <div className="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
               <div className="blog-item bg-light rounded overflow-hidden">
                 <div className="blog-img position-relative overflow-hidden">
-                  <img className="img-fluid" src="img/blog-2.jpg" alt="" />
+                  {/* <img className="img-fluid" src="img/blog-2.jpg" alt="" /> */}
                   <p
                     className="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4"
                   >
@@ -78,7 +78,7 @@ export default function Blog() {
             <div className="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
               <div className="blog-item bg-light rounded overflow-hidden">
                 <div className="blog-img position-relative overflow-hidden">
-                  <img className="img-fluid" src="img/blog-3.jpg" alt="" />
+                  {/* <img className="img-fluid" src="img/blog-3.jpg" alt="" /> */}
                   <p
                     className="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4"
                   >

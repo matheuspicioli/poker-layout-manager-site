@@ -18,11 +18,11 @@ export default function Testimonial() {
           >
             <div className="testimonial-item bg-light my-4">
               <div className="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                <img
+                {/* <img
                   className="img-fluid rounded"
                   src="img/testimonial-1.jpg"
                   style={{ width: "60px", height: "60px" }}
-                />
+                /> */}
                 <div className="ps-4">
                   <h4 className="text-primary mb-1">Client Name</h4>
                   <small className="text-uppercase">Profession</small>
@@ -35,11 +35,11 @@ export default function Testimonial() {
             </div>
             <div className="testimonial-item bg-light my-4">
               <div className="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                <img
+                {/* <img
                   className="img-fluid rounded"
                   src="img/testimonial-2.jpg"
                   style={{ width: "60px", height: "60px" }}
-                />
+                /> */}
                 <div className="ps-4">
                   <h4 className="text-primary mb-1">Client Name</h4>
                   <small className="text-uppercase">Profession</small>
@@ -52,11 +52,11 @@ export default function Testimonial() {
             </div>
             <div className="testimonial-item bg-light my-4">
               <div className="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                <img
+                {/* <img
                   className="img-fluid rounded"
                   src="img/testimonial-3.jpg"
                   style={{ width: "60px", height: "60px" }}
-                />
+                /> */}
                 <div className="ps-4">
                   <h4 className="text-primary mb-1">Client Name</h4>
                   <small className="text-uppercase">Profession</small>
@@ -69,11 +69,11 @@ export default function Testimonial() {
             </div>
             <div className="testimonial-item bg-light my-4">
               <div className="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                <img
+                {/* <img
                   className="img-fluid rounded"
                   src="img/testimonial-4.jpg"
                   style={{ width: "60px", height: "60px" }}
-                />
+                /> */}
                 <div className="ps-4">
                   <h4 className="text-primary mb-1">Client Name</h4>
                   <small className="text-uppercase">Profession</small>

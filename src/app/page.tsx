@@ -28,13 +28,13 @@ export default function Home() {
         <i className="bi bi-arrow-up"></i>
       </a>
 
-      <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-      <script src="lib/wow/wow.min.js"></script>
-      <script src="lib/easing/easing.min.js"></script>
-      <script src="lib/waypoints/waypoints.min.js"></script>
-      <script src="lib/counterup/counterup.min.js"></script>
-      <script src="js/main.js"></script>
+      <script src="https://code.jquery.com/jquery-3.4.1.min.js" async={true}></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" async={true}></script>
+      <script src="lib/wow/wow.min.js" async={true}></script>
+      <script src="lib/easing/easing.min.js" async={true}></script>
+      <script src="lib/waypoints/waypoints.min.js" async={true}></script>
+      <script src="lib/counterup/counterup.min.js" async={true}></script>
+      <script src="js/main.js" async={true}></script>
     </>
   );
 }

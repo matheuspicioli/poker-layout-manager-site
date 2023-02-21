@@ -1,3 +1,5 @@
+import Image from 'next/image'
+
 export default function Features() {
   return (
     <>
@@ -49,11 +51,12 @@ export default function Features() {
               style={{ minHeight: "350px" }}
             >
               <div className="position-relative h-100">
-                <img
+                <Image
                   className="position-absolute w-100 h-100 rounded wow zoomIn"
                   data-wow-delay="0.1s"
                   src="img/feature.avif"
                   style={{ objectFit: "cover" }}
+                  alt="something"
                 />
               </div>
             </div>
